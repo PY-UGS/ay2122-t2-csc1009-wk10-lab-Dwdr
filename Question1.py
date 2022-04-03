@@ -1,0 +1,1 @@
+print("Hello Glasgow!") #Prints out Hello Glasgow!
